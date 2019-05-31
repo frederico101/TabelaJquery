@@ -1,0 +1,19 @@
+tfoot input {
+        width: 100%;
+        padding: 3px;
+        box-sizing: border-box;
+
+    }
+
+.text{
+    width: 100%;
+    text-align: center;
+}
+
+#example_wrapper .dt-button button{
+
+    position:relative;
+    button: 0;
+
+
+}
